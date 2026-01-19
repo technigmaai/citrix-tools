@@ -1,0 +1,75 @@
+# Log files
+*.log
+vhdx-cleanup-*.log
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# PowerShell
+*.ps1xml
+*.pssc
+*.psrc
+*.psm1.bak
+*.psd1.bak
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+*.cache
+
+# VHD/VHDX files (if you don't want to track test images)
+# Uncomment if needed:
+# *.vhd
+# *.vhdx
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
