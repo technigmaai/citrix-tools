@@ -54,7 +54,7 @@ Temporary Items
 .settings/
 *.sublime-project
 *.sublime-workspace
-
+.gitignore
 # Temporary files
 *.tmp
 *.temp
