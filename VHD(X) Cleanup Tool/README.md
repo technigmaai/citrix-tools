@@ -130,3 +130,12 @@ Each run includes:
 - ✅ **Output control** - `-ShowDetails` parameter to control detailed output visibility
 - ✅ **Verbose mode** - Debug logging with `-Verbose` parameter (shows system info)
 - ✅ **Safe error handling** - Continues processing even when errors occur
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](../../LICENSE) file for details.
+
+**MIT License Conditions:**
+- You are free to use, modify, distribute, and sell this software
+- The software is provided "AS IS" without warranty
+- You must include the original copyright notice and license text in any copies or substantial portions of the software
