@@ -133,7 +133,7 @@ Each run includes:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](../../LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
 
 **MIT License Conditions:**
 - You are free to use, modify, distribute, and sell this software
