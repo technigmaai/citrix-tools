@@ -1,4 +1,4 @@
-# VHDX Cleanup Tool
+VHD(X) Cleanup Tool
 
 A PowerShell CLI that scans a folder of VHD/VHDX images, mounts each image, deletes specified paths, and unmounts safely with detailed logging and performance metrics.
 
